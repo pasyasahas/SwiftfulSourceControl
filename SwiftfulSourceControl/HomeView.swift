@@ -9,7 +9,7 @@ import SwiftUI
 
 struct HomeView: View {
     
-    @State private var title: String = "sjhdbfsaf"
+    @State private var title: String = "Hello, World!"
     
     var body: some View {
         
@@ -18,7 +18,7 @@ struct HomeView: View {
             Text("Screen 2!")
             
             Text("Screen 2!")
-            Text("Screen 2!")
+            Text("Screen 3!")
         }
     }
 }
