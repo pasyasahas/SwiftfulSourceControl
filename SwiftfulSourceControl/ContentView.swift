@@ -42,8 +42,8 @@ struct ContentView: View {
             Image(systemName: "house.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Swiftful Thinking")
-            Button("Subscribe now") {
+            Text("Some New Title!!")
+            Button("Click me!") {
                 
             }
             
