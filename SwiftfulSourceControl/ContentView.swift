@@ -39,7 +39,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "heart.fill")
+            Image(systemName: "bolt.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Swiftful Thinking")
