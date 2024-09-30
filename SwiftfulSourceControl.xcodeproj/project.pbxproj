@@ -15,6 +15,7 @@
 		151EC97C2CA5BDAD008CEED1 /* SwiftfulSourceControlUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151EC97B2CA5BDAD008CEED1 /* SwiftfulSourceControlUITests.swift */; };
 		151EC97E2CA5BDAD008CEED1 /* SwiftfulSourceControlUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151EC97D2CA5BDAD008CEED1 /* SwiftfulSourceControlUITestsLaunchTests.swift */; };
 		151EC98B2CA5C8A0008CEED1 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151EC98A2CA5C8A0008CEED1 /* HomeView.swift */; };
+		15B631C92CAAF85700598EDB /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B631C82CAAF85700598EDB /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		151EC97B2CA5BDAD008CEED1 /* SwiftfulSourceControlUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulSourceControlUITests.swift; sourceTree = "<group>"; };
 		151EC97D2CA5BDAD008CEED1 /* SwiftfulSourceControlUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulSourceControlUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		151EC98A2CA5C8A0008CEED1 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		15B631C82CAAF85700598EDB /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				151EC9602CA5BDAB008CEED1 /* SwiftfulSourceControlApp.swift */,
 				151EC9622CA5BDAB008CEED1 /* ContentView.swift */,
 				151EC98A2CA5C8A0008CEED1 /* HomeView.swift */,
+				15B631C82CAAF85700598EDB /* SettingsView.swift */,
 				151EC9642CA5BDAC008CEED1 /* Assets.xcassets */,
 				151EC9662CA5BDAC008CEED1 /* Preview Content */,
 			);
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				151EC98B2CA5C8A0008CEED1 /* HomeView.swift in Sources */,
+				15B631C92CAAF85700598EDB /* SettingsView.swift in Sources */,
 				151EC9632CA5BDAB008CEED1 /* ContentView.swift in Sources */,
 				151EC9612CA5BDAB008CEED1 /* SwiftfulSourceControlApp.swift in Sources */,
 			);
