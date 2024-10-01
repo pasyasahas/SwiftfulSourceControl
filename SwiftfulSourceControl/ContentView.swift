@@ -23,6 +23,7 @@
  GitIgnore
  ReadMe
  Releases, Tags, Versioning
+ "GIT Flow"
  
  COMMIT MESSAGES
  
